@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **akankshadarade07@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1As9YIsUu71LHuaMcVxvtGW6EcnAir03R/view?usp=sharing](https://drive.google.com/file/d/1As9YIsUu71LHuaMcVxvtGW6EcnAir03R/view?usp=sharing)](https://drive.google.com/file/d/1V_OxqZbS6ZRm_nqUEbRwq22KV6D3A52v/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1V_OxqZbS6ZRm_nqUEbRwq22KV6D3A52v/view?usp=sharing
 - ⚡ Fun fact **I think I'm Funny**
 
 
