@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Akanksha Darade</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working in **Vayana Network**
-
-- 🌱 I’m currently learning **Automation and Manual Testing**
+- 🔭 I’m currently working in **FUTY**
 
 - 👯 I’m looking to collaborate with **Automation and Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akanksha-71](https://github.com/akanksha-71)
 
-- 💬 About Me **Dynamic and results-driven Junior Software Engineer with 1.6 years.**
+- 💬 About Me **Proficient in software testing with 3 years of experience in both manual and
+automated testing using Java, JavaScript, and C#, along with automation
+frameworks like Cypress, Selenium. Skilled in designing and executing
+comprehensive test strategies that ensure high-quality, reliable deliverables
+across the SDLC. Strong background in API testing (Postman, Swagger) and
+test integration within CI/CD pipelines. Demonstrates exceptional analytical
+skills, keen attention to detail, and a strong passion for problem-solving,
+collaboration, and continuous learning.
+**
 
 - 📫 How to reach me **akankshadarade07@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1V_OxqZbS6ZRm_nqUEbRwq22KV6D3A52v/view?usp=sharing
+
 - ⚡ Fun fact **I think I'm Funny**
 
 
