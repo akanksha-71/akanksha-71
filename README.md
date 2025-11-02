@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Darade</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working in **FUTY**
+- 🔭 I’m currently working in **Pachisi Ltd**
 
 - 👯 I’m looking to collaborate with **Automation and Manual Testing**
 
